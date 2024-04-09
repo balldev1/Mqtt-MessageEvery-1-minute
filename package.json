@@ -1,0 +1,8 @@
+{
+  "scripts": {
+  "dev": "node server.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.5.0"
+  }
+}
